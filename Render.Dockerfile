@@ -1,4 +1,4 @@
-FROM morbargig/calculator-app:latest
+FROM roeebronfeldק/calculator-app:latest
 
 EXPOSE 5001
 
