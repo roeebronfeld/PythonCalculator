@@ -1,4 +1,4 @@
-FROM roeebronfeld/calculator-app:latest
+FROM roeebronfeld/pythoncalculator:latest
 
 EXPOSE 5001
 
